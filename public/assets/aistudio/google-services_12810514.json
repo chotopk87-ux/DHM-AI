@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "665242123958",
+    "firebase_url": "https://jarvis-ai-18b09-default-rtdb.firebaseio.com",
+    "project_id": "jarvis-ai-18b09",
+    "storage_bucket": "jarvis-ai-18b09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665242123958:android:18dc2557bc26bbf681b017",
+        "android_client_info": {
+          "package_name": "com.jarvisai.JARVISAI"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9McJJG3OfALYvMRCrYqHqaLnOrLW8ZlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
